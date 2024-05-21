@@ -12,10 +12,10 @@ Singapore's real estate market is dynamic, with resale flat prices influenced by
  - Data Preprocessing
  - Data Visualization
 
-# Skills Utilized
--Data Collection.
--Data Preprocessing.
--Feature Engineering.
--Model Selection and Training.
--Model Evaluation.
--Model Deployment.
+# Method of approching
+*Data Collection: Gathered data on past transactions of resale flats in Singapore.
+*Data Preprocessing: Cleaned and prepared the data for model training.
+*Feature Engineering: Extracted relevant features such as town, flat type, street name, etc.
+*Model Selection and Training: Chose a suitable machine learning model and trained it using the prepared data.
+*Model Evaluation: Evaluated the model's performance using appropriate metrics.
+*Model Deployment: Deployed the trained model as a user-friendly online application using Streamlit.
